@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # mobssie-vue3-todo
 
 ## Project setup
@@ -23,7 +22,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-=======
-# mobssie.vue3.todo
-vue3 todo list
->>>>>>> 4a6f53f... Initial commit
